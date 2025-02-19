@@ -26,7 +26,7 @@
     },
     "title": {
       "type": "richtext",
-      "required": true
+      "required": false
     },
     "isNested": {
       "type": "boolean",
