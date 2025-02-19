@@ -20,11 +20,6 @@
       ],
       "default": "pdp-note-section",
       "required": true
-    },
-    "backgroundGradient": {
-      "type": "boolean",
-      "default": true,
-      "required": true
     }
   }
 }
